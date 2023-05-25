@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  Telemetry Of Champions
+
+  Created by Adrián Castilla on 26/2/23.
+  
+*/
+
+// Onboarding
+"onboarding.page1.welcome" = "Bienvenido a\nTelemetry Of Champions";
+"onboarding.page1.tagline" = "Hecha para el verdadero fan de la F1";
+"onboarding.page2.intro" = "Simplemente introduce el año, Gran Premio y sesion de la cual quieres obtener telemetria";
+"onboarding.page3.intro" = "Finalmente, selecciona los pilotos que quieres comparar en la telemetria";
+"onboarding.page4.intro" = "Y voila! Ya puedes empezar a analizar y disfrutar de las telemetrias que generes durante horas";
+"onboarding.page4.button" = "Empieza a generar telemetrias!";
+
+// MARK: - Generate telemetry
+"generatetelemetry.tab.name" = "Generar";
+"generatetelemetry.picker.year" = "Año";
+"generatetelemetry.picker.grandprix" = "Gran Premio";
+"generatetelemetry.picker.session" = "Sesion";
+"generatetelemetry.button.generate" = "Generar telemetria!";
+"generatetelemetry.text.advice" = "Introduce los datos requeridos en la parte superior para generar la telemetria";
+"generatetelemetry.button.save" = "Guardar";
+"generatetelemetry.nav.title" = "Generar Telemetria";
+
+// MARK: - Previous Generations (pg)
+"pg" = "Anteriores";
+"pg.nav.title" = "Anteriores Telemetrias";
+"pg.searchbar.prompt" = "Busca una telemetria";
+"pg.swipeact.remove" = "Eliminar";
+
+// MARK: - Detailed Previous Generations
+"detailedpg.button.save" = "Guardar";
+
+// MARK: - Settings
+"settings" = "Ajustes";
+"settings.telemetryautosave.name" = "Auto guardar la telemetria cuando se genera";
+"settings.introscreenagain.name" = "Ver la pantalla introductoria de nuevo";
+"settings.button.cache" = "Limpiar cache";
+"settings.cachealert.title" = "¿Estas seguro de que quieres limpiar la cache de la app?";
+"settings.cachealert.button.clear" = "Limpiar";
+"settings.cachealert.button.cancel" = "Cancelar";
+"settings.section.appsettings.name" = "Ajustes de la app";
+"settings.section.about.name" = "Acerca de";
+"settings.section.socialnetwork.name" = "Redes Sociales";
+"settings.section.socialnetwork.website" = "Pagina Web";
+
+"settings.serverstatus.intro" = "Estado del servidor";
+"settings.serverstatus.up" = "Totalmente operativo";
+"settings.serverstatus.down" = "Inoperativo";
+
+// MARK: - LoadingView
+"loadingview.text" = "Cargando telemetria, esto podria tardar un tiempo. ¿Se esta tomando demasiado tiempo? Revisa tu conexion a internet o intentalo de nuevo mas tarde";
+
+// MARK: - Sessions
+"session.race" = "Carrera";
+"session.quali" = "Clasificacion";
+"session.sprint" = "Sprint";
+"session.fp3" = "Practica 3";
+"session.fp2" = "Practica 2";
+"session.fp1" = "Practica 1";
+
+// MARK: - Grand Prix
+"grandprix.saudi" = "Arabia Saudi";
+"grandprix.spain" = "España";
+"grandprix.uk" = "Reino Unido";
+"grandprix.france" = "Francia";
+"grandprix.hungary" = "Hungria";
+"grandprix.belgium" = "Belgica";
+"grandprix.nether" = "Holanda";
+"grandprix.it" = "Italia";
+"grandprix.singapore" = "Singapur";
+"grandprix.jp" = "Japon";
+"grandprix.br" = "Brasil";
+"grandprix.styria" = "Estiria";
+"grandprix.rs" = "Rusia";
+"grandprix.turkey" = "Turquia";
+"grandprix.70th" = "70 Aniversario";
+"grandprix.tuscan" = "Toscana";

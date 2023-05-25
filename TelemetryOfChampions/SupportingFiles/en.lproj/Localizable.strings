@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  Telemetry Of Champions
+
+  Created by Adrián Castilla on 26/2/23.
+  
+*/
+
+// Onboarding
+"onboarding.page1.welcome" = "Welcome to\nTelemetry Of Champions";
+"onboarding.page1.tagline" = "An app made for the real F1 fan";
+"onboarding.page2.intro" = "Just enter the year, Grand Prix and session for which you want to obtain telemetry";
+"onboarding.page3.intro" = "Finally, select the drivers to be compared in the telemetry";
+"onboarding.page4.intro" = "And voila! You can start analyzing and spending thousands of hours looking at the telemetry you generate";
+"onboarding.page4.button" = "Start generating telemetry!";
+
+// MARK: - Authentication
+
+// MARK: - Generate telemetry
+"generatetelemetry.tab.name" = "Generate";
+"generatetelemetry.picker.year" = "Year";
+"generatetelemetry.picker.grandprix" = "Grand Prix";
+"generatetelemetry.picker.session" = "Session";
+"generatetelemetry.button.generate" = "Generate telemetry!";
+"generatetelemetry.text.advice" = "Enter the data required above to display the telemetry";
+"generatetelemetry.button.save" = "Save";
+"generatetelemetry.nav.title" = "Generate Telemetry";
+
+// MARK: - Previous Generations (pg)
+"pg" = "Previous";
+"pg.nav.title" = "Previous Generations";
+"pg.searchbar.prompt" = "Search for a telemetry";
+"pg.swipeact.remove" = "Remove";
+
+// MARK: - Detailed Previous Generations
+"detailedpg.button.save" = "Save";
+
+// MARK: - Settings
+"settings" = "Settings";
+"settings.telemetryautosave.name" = "Telemetry auto save when generated";
+"settings.introscreenagain.name" = "See the introduction screen again";
+"settings.button.cache" = "Clear cache";
+"settings.cachealert.title" = "Are you sure you want to clear the cache of the app?";
+"settings.cachealert.button.clear" = "Clear";
+"settings.cachealert.button.cancel" = "Cancel";
+"settings.section.appsettings.name" = "App settings";
+"settings.section.about.name" = "About";
+"settings.section.socialnetwork.name" = "Social Network";
+"settings.section.socialnetwork.website" = "Website";
+
+"settings.serverstatus.intro" = "Server status";
+"settings.serverstatus.up" = "Fully operative";
+"settings.serverstatus.down" = "Down";
+
+// MARK: - LoadingView
+"loadingview.text" = "Loading telemetry, this could take some time. Taking too much time? Check that you are connected to the internet or try again later";
+
+// MARK: - Sessions
+"session.race" = "Race";
+"session.quali" = "Qualifying";
+"session.sprint" = "Sprint";
+"session.fp3" = "Practice 3";
+"session.fp2" = "Practice 2";
+"session.fp1" = "Practice 1";
+
+// MARK: - Grand Prix
+"grandprix.saudi" = "Saudi Arabia";
+"grandprix.spain" = "Spain";
+"grandprix.uk" = "United Kingdom";
+"grandprix.france" = "France";
+"grandprix.hungary" = "Hungary";
+"grandprix.belgium" = "Belgium";
+"grandprix.nether" = "Netherlands";
+"grandprix.it" = "Italy";
+"grandprix.singapore" = "Singapore";
+"grandprix.jp" = "Japan";
+"grandprix.br" = "Brazil";
+"grandprix.styria" = "Styria";
+"grandprix.rs" = "Russia";
+"grandprix.turkey" = "Turkey";
+"grandprix.70th" = "70th Anniversary";
+"grandprix.tuscan" = "Tuscany";
